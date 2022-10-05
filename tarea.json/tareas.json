@@ -1,0 +1,12 @@
+[{
+    "titulo" : "cargar productos",
+    "estado" : "terminada"
+},
+{
+    "titulo" : "cambiar precios",
+    "estado" : "en progreso"
+},
+{
+    "titulo" : "cambiar slide home",
+    "estado" : "pendiente"
+}]
